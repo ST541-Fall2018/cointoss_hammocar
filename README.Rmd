@@ -14,7 +14,7 @@ knitr::opts_chunk$set(
 
 The goal of project is to ...
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
+What is special about using `README.R md` instead of just `README.md`? You can include R chunks like so:
 
 ```{r cars}
 summary(cars)
